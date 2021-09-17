@@ -1,6 +1,6 @@
 <template>
   <div>
-    search
+    searchaaa
   </div>
 </template>
 
